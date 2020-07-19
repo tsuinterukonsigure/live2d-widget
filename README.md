@@ -151,5 +151,3 @@ https://community.live2d.com/discussion/140/webgl-developer-licence-and-javascri
 
 2018年10月31日，由 fghrsh 提供的原 API 停用，请更新至新地址。参考文章：  
 https://www.fghrsh.net/post/170.html
-
-2020年1月1日起，本项目不再依赖于 jQuery。
